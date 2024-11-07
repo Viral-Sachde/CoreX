@@ -1,0 +1,21 @@
+
+.container a {
+
+    color:black;
+   
+    
+}
+.container a:hover {
+    color: white;
+}
+
+.menu li:hover {
+    background-color:#0d6efd;
+
+    border-radius: 8px;
+   }
+
+   .brdcrm li a:hover {
+color: #0d6efd;
+   }
+
